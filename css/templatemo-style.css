@@ -131,7 +131,6 @@ h4
 .custom-navbar .navbar-brand 
     {
         color: black;
-        font-weight: bold;
         font-size: 50px;
         display:flex;
         align-items:center;
@@ -189,7 +188,6 @@ h4
 #home h1
     {
         font-size: 80px;
-        font-weight: bold;
         line-height: 1em;
         letter-spacing: 2px;
         padding-top: 40px;
@@ -199,7 +197,6 @@ h4
 @media(min-width:768px){
     #home h1 {
         font-size: 80px;
-        font-weight: bold;
         line-height: 1em;
         letter-spacing: 2px;
         padding-top: 100px;
@@ -215,8 +212,6 @@ h4
 #home span
     {
         color: #ffffff;
-        font-weight: bold;
-
     }
 #home .btn {
     background: rgba(0,0,1,0.6);
