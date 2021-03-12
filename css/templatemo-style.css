@@ -9,10 +9,11 @@ https://templatemo.com/tm-461-workforce
 body
     {
         background: #f9f9f9;
-        font-family: 'Abel', sans-serif;
-        font-weight: 400;
+        font-family: 'Abel';font-style: normal; 
         overflow-x: hidden;
+
     }
+
 
 /* start hr */
 hr
@@ -191,9 +192,20 @@ h4
         font-weight: bold;
         line-height: 1em;
         letter-spacing: 2px;
+        padding-top: 40px;
+        color: black;
+    }
+
+@media(min-width:768px){
+    #home h1 {
+        font-size: 80px;
+        font-weight: bold;
+        line-height: 1em;
+        letter-spacing: 2px;
         padding-top: 100px;
         color: black;
     }
+}
 #home h2
     {
 
